@@ -1,0 +1,21 @@
+# fr or en
+language: "en"
+
+items:
+  first:
+    id: 1
+    name: "&6ChestExplorer"
+    lores:
+      - "&6Lore1"
+      - "&4Lore2"
+      - "&6Uses : {uses}"
+    uses: 50
+    glowing: true
+  second:
+    id: 5
+    name: "&6ChestExplorer 2"
+    lores:
+      - "&6Lore1"
+      - "&4Uses : {uses}"
+    uses: 10
+    glowing: true

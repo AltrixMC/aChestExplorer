@@ -1,0 +1,8 @@
+name: AChestExplorer
+version: ${project.version}
+main: fr.altrix.achestexplorer.AChestExplorer
+api-version: 1.17
+authors: [ AltrixMC ]
+commands:
+  chestexplorer:
+    permission: chestexplorer.give
